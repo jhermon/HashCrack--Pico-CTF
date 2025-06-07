@@ -65,4 +65,3 @@ To view the results “– show” was added to the command
 
 The process was repeated for the other hashes that popped up in the pico CTF terminal.
 
-Downloadable version of the writeup: [HackCrack.docx](https://github.com/user-attachments/files/20636764/HackCrack.docx)
