@@ -18,7 +18,9 @@ To access the server with the hashes, use nc verbal-sleep.picoctf.net 57192
 - Rockyou word list to conduct the dictionary attack
 - Hashcat to brute force the hashes to derive the password
 
-## Setup
+## Steps
+
+### Setup
 1.	Copied the command - nc verbal-sleep.picoctf.net 57192 then clicked the server icon to open the server.
 
 ![Screenshot 2025-06-02 215647](https://github.com/user-attachments/assets/471e2d38-b887-419b-b765-5d9511d6f70a)
@@ -39,7 +41,7 @@ To access the server with the hashes, use nc verbal-sleep.picoctf.net 57192
    
 ![Screenshot 2025-06-02 221412](https://github.com/user-attachments/assets/dfd462d7-d17d-4795-8d5a-75b579a04e7c)
 
-## Solution
+### Solution
 1.	First, identify the hashing algorithm. For this, “hash-identifier", a Kali tool, was used. The command hash-identifier was entered in the terminal, which opened the application, then the hash was copied and entered. The red mark highlights the possible hashing algorithm.
    
 ![Screenshot 2025-06-02 221243](https://github.com/user-attachments/assets/b24f7ac2-7749-47f2-a680-7a5858a109b0)
@@ -55,7 +57,7 @@ To access the server with the hashes, use nc verbal-sleep.picoctf.net 57192
 •	The first path is the txt file which is stored in the hash.
 •	Second is the location of the wordlist used to compare the hash.
 
-## Results
+### Results
 
 1.	To view the results “– show” was added to the command
    
