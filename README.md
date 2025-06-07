@@ -9,7 +9,7 @@ To access the server with the hashes, use nc verbal-sleep.picoctf.net 57192
 
 ### Skills Learned
 - Linux file traversal
-- how to conduct a dictionary attack
+- Steps to conduct a simple dictionary attack
 - Ability to identify hashes
 
 ### Tools Used
