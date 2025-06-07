@@ -64,3 +64,5 @@ To view the results “– show” was added to the command
    ![Screenshot 2025-06-02 222833](https://github.com/user-attachments/assets/17e2c989-0029-4616-bd2d-98a72df665eb)
 
 The process was repeated for the other hashes that popped up in the pico CTF terminal.
+
+Downloadable version of the writeup: [HackCrack.docx](https://github.com/user-attachments/files/20636764/HackCrack.docx)
